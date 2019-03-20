@@ -88,6 +88,9 @@ env/
 venv/
 ENV/
 env.bak/
+include/
+pyvenv.cfg
+scripts/
 venv.bak/
 
 # Spyder project settings
